@@ -1,3 +1,8 @@
 function VSCode(params) {
-	alert(1);
+	alert(params);
+	
 }
+
+var test=1;
+VSCode(test);
+
