@@ -2,4 +2,9 @@ This is my second file fro mVS Code
 zingel mengel ziv ziv
 
 madfrcelo code.s
+<<<<<<< HEAD
 TTTTTTTTT
+=======
+
+dsadasds
+>>>>>>> origin/master
